@@ -1,1 +1,0 @@
-# mini-3d-scanner
